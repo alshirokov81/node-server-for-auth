@@ -1,0 +1,3 @@
+to run server npm start
+
+for making requests from postman in body set type 'x-www-form-urlencoded'
